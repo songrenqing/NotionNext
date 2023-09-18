@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '全平台',
-  HERO_TITLE_2: '与思维认知',
+  HERO_TITLE_1: '全渠道销售',
+  HERO_TITLE_2: '付出不亚于任何人的努力',
   HERO_TITLE_3: 'WWW.PCWC.COM',
   HERO_TITLE_4: '经营理念',
   HERO_TITLE_5: '品诚电商11条经营理念',
@@ -28,12 +28,10 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！我是',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
   INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
@@ -46,7 +44,7 @@ const CONFIG = {
       color_1: '#989bf8',
       title_2: 'JingDong',
       img_2: '/images/heo/jd.webp',
-      color_2: '#ffffff'
+      color_2: '#eb6840'
     },
     {
       title_1: 'DouYin',
@@ -59,10 +57,10 @@ const CONFIG = {
     {
       title_1: 'VIP',
       img_1: '/images/heo/vip.webp',
-      color_1: '#ffffff',
+      color_1: '#8f55ba',
       title_2: 'PDD',
       img_2: '/images/heo/pdd.webp',
-      color_2: '#ffffff'
+      color_2: '#f29e39'
     },
   ],
 
