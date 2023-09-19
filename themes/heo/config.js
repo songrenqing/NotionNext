@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '全渠道销售',
-  HERO_TITLE_2: '付出不亚于任何人的努力',
+  HERO_TITLE_1: '全平台',
+  HERO_TITLE_2: '品质 诚实 专注',
   HERO_TITLE_3: 'WWW.PCWC.COM',
   HERO_TITLE_4: '经营理念',
   HERO_TITLE_5: '品诚电商11条经营理念',
