@@ -62,6 +62,7 @@ const CONFIG = {
       img_2: '/images/heo/pdd.webp',
       color_2: '#f29e39'
     },
+    {
       title_1: 'xhs',
       img_1: '/images/heo/xhs.webp',
       color_1: '#df5b40',
