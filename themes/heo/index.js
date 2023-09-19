@@ -1,4 +1,4 @@
-461490.htmlimport CONFIG from './config'
+import CONFIG from './config'
 
 import CommonHead from '@/components/CommonHead'
 import { useEffect, useState } from 'react'
