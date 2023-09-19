@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '全平台',
-  HERO_TITLE_2: '品质 诚实 专注',
+  HERO_TITLE_1: '品质 诚实',
+  HERO_TITLE_2: '专注 精进',
   HERO_TITLE_3: 'WWW.PCWC.COM',
   HERO_TITLE_4: '经营理念',
   HERO_TITLE_5: '品诚电商11条经营理念',
@@ -61,6 +61,13 @@ const CONFIG = {
       title_2: 'PDD',
       img_2: '/images/heo/pdd.webp',
       color_2: '#f29e39'
+    },
+      title_1: 'xhs',
+      img_1: '/images/heo/xhs.webp',
+      color_1: '#df5b40',
+      title_2: 'Shopee',
+      img_2: '/images/heo/Shopee.webp',
+      color_2: '#1f1f1f'
     },
   ],
 
