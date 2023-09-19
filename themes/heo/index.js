@@ -1,4 +1,4 @@
-import CONFIG from './config'
+461490.htmlimport CONFIG from './config'
 
 import CommonHead from '@/components/CommonHead'
 import { useEffect, useState } from 'react'
@@ -342,7 +342,7 @@ const LayoutSlug = props => {
               {post?.type === 'Post' && (
                 <div className="px-5">
                   {/* 版权 */}
-                  <ArticleCopyright {...props} />
+                  
                   {/* 文章推荐 */}
                   <ArticleRecommend {...props} />
                   {/* 上一篇\下一篇文章 */}
