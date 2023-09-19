@@ -44,7 +44,7 @@ const CONFIG = {
       color_1: '#989bf8',
       title_2: 'JingDong',
       img_2: '/images/heo/jd.webp',
-      color_2: '#eb6840'
+      color_2: '#FFFFFF'
     },
     {
       title_1: 'DouYin',
