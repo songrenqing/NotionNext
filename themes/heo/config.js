@@ -10,7 +10,7 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '品质 诚实',
+  HERO_TITLE_1: '品质 诚信',
   HERO_TITLE_2: '专注 精进',
   HERO_TITLE_3: 'WWW.PCWC.COM',
   HERO_TITLE_4: '经营理念',
@@ -41,7 +41,7 @@ const CONFIG = {
     {
       title_1: 'TaoBao',
       img_1: '/images/heo/tb.webp',
-      color_1: '#989bf8',
+      color_1: '#FFFFFF',
       title_2: 'JingDong',
       img_2: '/images/heo/jd.webp',
       color_2: '#FFFFFF'
@@ -49,26 +49,26 @@ const CONFIG = {
     {
       title_1: 'DouYin',
       img_1: '/images/heo/dy.webp',
-      color_1: '#57b6e6',
+      color_1: '#FFFFFF',
       title_2: 'KuaiShou',
       img_2: '/images/heo/ks.webp',
-      color_2: '#4082c3'
+      color_2: '#FFFFFF'
     },
     {
       title_1: 'VIP',
       img_1: '/images/heo/vip.webp',
-      color_1: '#8f55ba',
+      color_1: '#FFFFFF',
       title_2: 'PDD',
       img_2: '/images/heo/pdd.webp',
-      color_2: '#f29e39'
+      color_2: '#FFFFFF'
     },
     {
       title_1: 'xhs',
       img_1: '/images/heo/xhs.webp',
-      color_1: '#df5b40',
+      color_1: '#FFFFFF',
       title_2: 'Shopee',
       img_2: '/images/heo/Shopee.webp',
-      color_2: '#1f1f1f'
+      color_2: '#FFFFFF'
     },
   ],
 
